@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">Meu nome é João Oliveira, sou Desenvolvedor de Software especializado em Backend. Graduado em Ciência da Computação, atualmente estou estudando Padrões de Projetos, em especial Clean Architecture, e técnicas e métodos que contribuem para o aumento de perfomance de soluções Java. <br>Construo soluções utilizando a linguagem de programação Java como principal ferramenta, aliado a tecnologias como Spring Framework, Postgresql, Docker, Rabbitmq, além de tecnologias voltadas para Desenvolvimento Web.</p>
+<p align="left">Meu nome é João Oliveira, sou Desenvolvedor de Software especializado em Backend. Graduado em Ciência da Computação, atualmente estou estudando Padrões de Projetos, em especial Clean Architecture, e técnicas e métodos que contribuem para o aumento de perfomance de soluções Java. <br>Construo soluções utilizando a linguagem de programação Java como principal ferramenta, aliado a tecnologias como Spring Framework, Postgresql, Docker, Rabbitmq, além de tecnologias voltadas para Desenvolvimento Web.</p>
 
 ###
 
